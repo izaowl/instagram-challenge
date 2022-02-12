@@ -1,12 +1,13 @@
 Instagram Challenge
 ===================
 
-## Instructions
-
-* Feel free to use Google, your notes, books, etc., but work on your own
-* If you refer to the solution of another coach or student, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9am Monday morning
+Tech Stacks
+Back-end:
+Ruby 3.0.0
+Rails 7.0
+Database: Postgres 14
+Front-end:
+HTML, CSS, Javascript
 
 ## Task
 
