@@ -44,6 +44,7 @@ gem "bootsnap", require: false
 gem 'bootstrap', '~> 5.1.3'
 gem 'jquery-rails'
 gem 'font-awesome-rails'
+gem 'devise'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
